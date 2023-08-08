@@ -33,7 +33,7 @@ The world of data science is in perpetual motion, and I'm dedicated to keeping u
 I firmly believe in the power of knowledge sharing. You can find my various projects on my GitHub dashboard. From Python, Javascript and other programming languages to thought-provoking discussions on the future of AI, I'm always excited to engage in meaningful conversations.
 
 🌍 Beyond Data
-When I'm not knee-deep in data, I love to explore the great outdoors. Hiking, photography, and traveling to new places allow me to recharge and gain fresh perspectives that often find their way back into my work.
+When I'm not knee-deep in data, I love to explore the great outdoors. Exploring and traveling to new places allow me to recharge and gain fresh perspectives that often find their way back into my work.
 
 Feel free to connect with me on LinkedIn and GitHub. I'm always open to connecting with fellow data enthusiasts, potential collaborators, or anyone who simply wants to chat about the exciting world of data science.
 

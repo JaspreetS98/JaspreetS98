@@ -18,10 +18,10 @@ Optimizing algorithms and data structures to maximize efficiency and minimize re
 
 Devote at least one hour per day to activities that give me mental and physical fortitude.  
 Prioritizing travel as an enriching self-discovery opportunity, exploring diverse cultures and experiences whenever I have free time.  
-Being passionate about embracing new technologies and features, demonstrating curiosity and adaptability in the ever-evolving tech landscape.  
+Being passionate about embracing new technologies and features, demonstrating curiosity and adaptability in the tech landscape.  
 Aspiring to work in the fields of data, cloud and Machine Learning while attending related conferences, workshops, or seminars.  
 
-🌍 Feel free to connect with me on LinkedIn and GitHub. I look forward to sharing insights, learning together, and making a lasting impact!
+🌍 Feel free to connect with me on LinkedIn and GitHub. I look forward to sharing insights and learning together to make a lasting impact!
 
 All the best,
 Jaspreet

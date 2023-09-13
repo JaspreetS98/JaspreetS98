@@ -21,7 +21,7 @@ Prioritizing travel as an enriching self-discovery opportunity, exploring divers
 Being passionate about embracing new technologies and features, demonstrating curiosity and adaptability in the tech landscape.  
 Aspiring to work in the fields of data, cloud and Machine Learning while attending related conferences, workshops, or seminars.  
 
-🌍 Feel free to connect with me on LinkedIn and GitHub. I look forward to sharing insights and learning together to make a lasting impact!
+🌍 Feel free to connect with me on LinkedIn and GitHub.  
 
 All the best,
 Jaspreet

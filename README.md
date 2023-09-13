@@ -6,14 +6,13 @@ Being born and raised in Italy, my machine learning academic journey began at th
 
 🚀 What I learned
 
-Machine Learning: Crafting and fine-tuning machine learning models that uncover patterns, predict outcomes, and enhance decision-making. 
-Data Visualization: Translating complex data into compelling visual narratives that resonate with both technical and non-technical audiences.  
-Big Data Analytics: Harnessing the power of big data technologies to extract valuable insights from massive datasets.  
-AI Ethics: Advocating for ethical considerations in AI and data science, ensuring that innovation aligns with responsible practices.  
-
-Programming Languages: Proficient in a diverse range of languages that allows me to choose the right tool for the task. ( Python, Java, R, ... )  
-Software Architecture: Designing scalable and maintainable architectures that ensure long-term code quality and flexibility.    
-Algorithmic Efficiency: Optimizing algorithms and data structures to maximize efficiency and minimize resource consumption.  
+Crafting and fine-tuning machine learning models that uncover patterns, predict outcomes, and enhance decision-making.  
+Translating complex data into compelling visual narratives that resonate with both technical and non-technical audiences.  
+Harnessing the power of big data technologies to extract valuable insights from massive datasets.  
+Advocating for ethical considerations in AI and data science, ensuring that innovation aligns with responsible practices.  
+Expanded proficiency in a diverse range of languages allowing to choose the right tool for the task. ( Python, Java, R, ... )  
+Designing scalable and maintainable architectures that ensure long-term code quality and flexibility.    
+Optimizing algorithms and data structures to maximize efficiency and minimize resource consumption.  
 
 📝 Interests and Personal objectives
 
